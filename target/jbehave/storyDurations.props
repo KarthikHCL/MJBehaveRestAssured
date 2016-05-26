@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Thu May 26 13:16:56 IST 2016
+threads=2
+total=0
+com/MavenJBehave/stories/my.story=0
+threadAverage=0
